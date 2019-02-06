@@ -1,0 +1,15 @@
+h1,h2 {
+  text-align: center;
+}
+
+img {
+  height: 25px;
+}
+
+.horas,.minutos {
+  margin-bottom: 10px;
+}
+
+.row div {
+  max-width: 35px;
+}
